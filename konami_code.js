@@ -6,6 +6,6 @@ function init() {
     body.addEventListener('keydown', function(e) {
     console.log(e.which)
     return alert('Congradulations!')
+  }
 }
-
   // Write your JavaScript code inside the init() function
